@@ -6,7 +6,7 @@
 git clone https://github.com/Widanta/info.git
 ```
 
-## Agar Selalu Uptudate Dengan github
+## Uptudate Repositori Github
 
 ```bash
 git pull
